@@ -45,7 +45,7 @@ ground/normal_roughness_3 = ExtResource( 11 )
 transform = Transform( 0.160412, 0.753862, -0.63715, -0.758223, 0.507396, 0.409447, 0.631954, 0.417422, 0.652988, 174.516, 164.036, 258.955 )
 shadow_enabled = true
 
-[node name="scene" type="CollisionShape" parent="." instance=ExtResource( 12 )]
+[node name="scene" parent="." instance=ExtResource( 12 )]
 transform = Transform( 0.05, 0, 0, 0, 0.05, 0, 0, 0, 0.05, 56.1402, 39.2258, 177.919 )
 
 [node name="scene2" parent="." instance=ExtResource( 12 )]
