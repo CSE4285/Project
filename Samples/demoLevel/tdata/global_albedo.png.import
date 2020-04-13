@@ -2,31 +2,54 @@
 
 importer="texture"
 type="StreamTexture"
+<<<<<<< Updated upstream
 path.s3tc="res://.import/global_albedo.png-d4a8957345f0ae3a8f04d3e0e9c0e987.s3tc.stex"
 path.etc2="res://.import/global_albedo.png-d4a8957345f0ae3a8f04d3e0e9c0e987.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
+=======
+path="res://.import/global_albedo.png-d4a8957345f0ae3a8f04d3e0e9c0e987.stex"
+metadata={
+"vram_texture": false
+>>>>>>> Stashed changes
 }
 
 [deps]
 
 source_file="res://tdata/global_albedo.png"
+<<<<<<< Updated upstream
 dest_files=[ "res://.import/global_albedo.png-d4a8957345f0ae3a8f04d3e0e9c0e987.s3tc.stex", "res://.import/global_albedo.png-d4a8957345f0ae3a8f04d3e0e9c0e987.etc2.stex" ]
 
 [params]
 
 compress/mode=2
+=======
+dest_files=[ "res://.import/global_albedo.png-d4a8957345f0ae3a8f04d3e0e9c0e987.stex" ]
+
+[params]
+
+compress/mode=0
+>>>>>>> Stashed changes
 compress/lossy_quality=0.7
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
+<<<<<<< Updated upstream
 flags/repeat=true
 flags/filter=true
 flags/mipmaps=true
 flags/anisotropic=false
 flags/srgb=1
 process/fix_alpha_border=true
+=======
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=false
+>>>>>>> Stashed changes
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false

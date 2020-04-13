@@ -25,7 +25,11 @@ flags/repeat=true
 flags/filter=true
 flags/mipmaps=true
 flags/anisotropic=false
+<<<<<<< Updated upstream
 flags/srgb=1
+=======
+flags/srgb=2
+>>>>>>> Stashed changes
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false

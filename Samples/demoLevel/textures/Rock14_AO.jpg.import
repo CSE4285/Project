@@ -2,35 +2,61 @@
 
 importer="texture"
 type="StreamTexture"
+<<<<<<< Updated upstream
 path.s3tc="res://.import/Rock14_AO.jpg-f91ec7940e4f822360ae0710b3e3e1af.s3tc.stex"
 path.etc2="res://.import/Rock14_AO.jpg-f91ec7940e4f822360ae0710b3e3e1af.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
+=======
+path="res://.import/Rock14_AO.jpg-f91ec7940e4f822360ae0710b3e3e1af.stex"
+metadata={
+"vram_texture": false
+>>>>>>> Stashed changes
 }
 
 [deps]
 
 source_file="res://textures/Rock14_AO.jpg"
+<<<<<<< Updated upstream
 dest_files=[ "res://.import/Rock14_AO.jpg-f91ec7940e4f822360ae0710b3e3e1af.s3tc.stex", "res://.import/Rock14_AO.jpg-f91ec7940e4f822360ae0710b3e3e1af.etc2.stex" ]
 
 [params]
 
 compress/mode=2
+=======
+dest_files=[ "res://.import/Rock14_AO.jpg-f91ec7940e4f822360ae0710b3e3e1af.stex" ]
+
+[params]
+
+compress/mode=0
+>>>>>>> Stashed changes
 compress/lossy_quality=0.7
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
+<<<<<<< Updated upstream
 flags/repeat=true
 flags/filter=true
 flags/mipmaps=true
 flags/anisotropic=false
 flags/srgb=1
+=======
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+>>>>>>> Stashed changes
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
 stream=false
 size_limit=0
+<<<<<<< Updated upstream
 detect_3d=false
+=======
+detect_3d=true
+>>>>>>> Stashed changes
 svg/scale=1.0

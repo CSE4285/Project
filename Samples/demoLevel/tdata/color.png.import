@@ -2,31 +2,54 @@
 
 importer="texture"
 type="StreamTexture"
+<<<<<<< Updated upstream
 path.s3tc="res://.import/color.png-ac0001d0f16d499b1586a6056a56a084.s3tc.stex"
 path.etc2="res://.import/color.png-ac0001d0f16d499b1586a6056a56a084.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
+=======
+path="res://.import/color.png-ac0001d0f16d499b1586a6056a56a084.stex"
+metadata={
+"vram_texture": false
+>>>>>>> Stashed changes
 }
 
 [deps]
 
 source_file="res://tdata/color.png"
+<<<<<<< Updated upstream
 dest_files=[ "res://.import/color.png-ac0001d0f16d499b1586a6056a56a084.s3tc.stex", "res://.import/color.png-ac0001d0f16d499b1586a6056a56a084.etc2.stex" ]
 
 [params]
 
 compress/mode=2
+=======
+dest_files=[ "res://.import/color.png-ac0001d0f16d499b1586a6056a56a084.stex" ]
+
+[params]
+
+compress/mode=0
+>>>>>>> Stashed changes
 compress/lossy_quality=0.7
 compress/hdr_mode=0
 compress/bptc_ldr=0
 compress/normal_map=0
+<<<<<<< Updated upstream
 flags/repeat=true
 flags/filter=true
 flags/mipmaps=true
 flags/anisotropic=false
 flags/srgb=1
 process/fix_alpha_border=true
+=======
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=false
+>>>>>>> Stashed changes
 process/premult_alpha=false
 process/HDR_as_SRGB=false
 process/invert_color=false
